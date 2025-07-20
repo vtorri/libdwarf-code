@@ -450,3 +450,5 @@ and see the html [dwhtml] (www.prevanders.net/libdwarfdoc/index.html).
 The latest pdf is [dwpdf] (www.prevanders.net/libdwarf.pdf)
 
 David Anderson.
+
+[![Packaging status](https://repology.org/badge/vertical-allrepos/libdwarf.svg?exclude_unsupported=1)](https://repology.org/project/libdwarf/versions)
